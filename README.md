@@ -2,7 +2,7 @@
 Description:
 This HTML document creates a simple interactive face with moving eyes that follow the user's mouse cursor. The face consists of a yellow circle with two eyes, and the eyes' black pupils follow the mouse movement.
 
-## Step to run the Project
+## How to Run Project
 step1:Save the HTML file with .html extension.
 
 step2:Click the "Go Live" button.A new browser window will open, displaying EyeBall moving.
